@@ -1,0 +1,136 @@
+cores:
+#990100
+#b90504
+#333333
+#f6f6f6
+#e8e8e8
+
+fonte:
+https://dafont.com/pt/butler.chrmap?f=0&back=theme
+
+O Direito de Sonhar: Entre o Preço do Metro Quadrado e o Projeto de Vida
+Por Redação
+
+27 de maio de 2026
+
+Aos 20 e poucos anos, o futuro costuma ser desenhado como uma tela em branco, pronta para receber ambições profissionais e conquistas pessoais. No entanto, para a atual geração de jovens brasileiros, preencher esse espaço tem se tornado um exercício complexo de matemática e resiliência. Entre a instabilidade do mercado de trabalho e a escalada do custo de vida nas grandes cidades, uma pergunta de tom existencial ecoa nos quartos, nas salas de aula e nas redes sociais: afinal, onde eu vou estar daqui a 10 anos?
+
+Mais do que uma meta de carreira, o plano de vida esbarra em uma necessidade básica, garantida pelo artigo 6º da Constituição Federal, mas que parece cada vez mais distante da realidade: a moradia digna. Ter um teto para chamar de seu deixou de ser apenas um passo natural da vida adulta para se tornar o epicentro dos maiores desejos — e das maiores ansiedades — de uma geração.
+
+Onde eu me vejo daqui a 10 anos? A busca pela identidade
+Para quem está começando a traçar o próprio caminho, o exercício de olhar para o futuro provoca reflexões profundas. O projeto de vida na juventude não se resume ao crachá de uma empresa ou ao diploma na parede; ele passa, obrigatoriamente, pela construção da própria identidade. E a psicologia social aponta: o espaço físico que habitamos é parte fundamental de quem somos.
+
+"Ter o meu próprio espaço significa que eu finalmente posso decidir quem eu sou, sem pedir licença ou me moldar às regras de outra pessoa", conta Mateus Silva, de 22 anos, estudante de design que hoje divide o quarto com o irmão adolescente.
+
+A busca pela independência está diretamente ligada ao lugar onde se vive. É na privacidade do próprio lar que a identidade se consolida: a escolha dos móveis, a cor das paredes ou o simples gesto de ter a chave da porta da frente funcionam como rituais de passagem para a vida adulta. No entanto, o fenômeno da "geração canguru" — jovens que estendem a permanência na casa dos pais — tem sido a regra, e não a exceção, muitas vezes por pura falta de alternativa financeira.
+
+Ter uma casa é um sonho possível? O choque de realidade
+Diante do atual cenário econômico, a casa própria parece, para muitos, um sonho de ficção científica. O aumento expressivo nos preços dos aluguéis e as exigências rígidas do mercado imobiliário fazem a juventude questionar se esse teto é realmente alcançável ou se virou uma utopia.
+
+Especialistas apontam que três fatores principais desenham esse cenário:
+
+A barreira do primeiro passo: Com salários iniciais defasados e a informalidade em alta, acumular o valor necessário para a entrada de um imóvel se tornou um desafio hercúleo.
+
+A nova cara da moradia: O conceito de "lar" está mudando. Para as novas gerações, a flexibilidade de morar perto do trabalho ou do transporte público muitas vezes pesa mais do que a posse do imóvel, forçando uma migração em massa para a cultura do aluguel ou do co-living (moradia compartilhada).
+
+O ritmo das soluções: Embora existam programas de habitação popular e novas linhas de crédito, o ritmo das políticas públicas e das facilidades bancárias ainda é mais lento do que a urgência de quem precisa de autonomia para viver.
+
+Morar bem não é apenas uma questão de tijolo e cimento; é a base estrutural para que todo o resto — a carreira, os relacionamentos e a saúde mental — possa prosperar. Sem uma base sólida, planejar os próximos dez anos se torna um voo no escuro.
+
+Perguntas para provocar o futuro: O debate necessário
+Para tirar o tema do campo da estatística e trazê-lo para a reflexão individual, propomos três perguntas provocativas que servem de bússola para quem está tentando desenhar o amanhã:
+
+1. Se a estabilidade financeira não fosse um obstáculo hoje, como seria o seu projeto de vida ideal para a próxima década?
+Esta questão isola o fator financeiro para entender o que a juventude realmente deseja quando não está sufocada pelos boletos. É um olhar puro sobre a vocação e o estilo de vida ideal.
+
+2. O quanto o lugar onde você mora atualmente limita ou impulsiona a sua identidade e os seus planos de carreira?
+Morar longe dos centros urbanos, gastar horas no transporte público ou não ter privacidade em casa são fatores que drenam a energia criativa e o tempo de estudo. Onde você está agora te deixa crescer?
+
+3. A casa própria é uma meta real que você deseja alcançar ou o mercado atual te fez ressignificar o que significa "ter um lar"?
+O sonho mudou ou foi a realidade que forçou uma adaptação? Entender se o desejo de comprar um imóvel ainda faz sentido para a nova geração é a chave para o futuro do mercado e das cidades.
+
+O direito de sonhar pertence a todos, mas o direito de realizar exige oportunidades concretas. Olhar para os próximos 10 anos e insistir em construir um espaço próprio no mundo é, antes de tudo, o maior ato de coragem da juventude atual.
+
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lins News - O Direito de Sonhar</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="site-brand" href="index.html">Lins News</a>
+        <button class="menu-toggle" aria-label="Abrir menu">☰</button>
+        <nav class="main-nav">
+          <ul class="nav-links">
+            <li><a class="active" href="index.html">Início</a></li>
+            <li><a href="politica.html">Política</a></li>
+            <li><a href="economia.html">Economia</a></li>
+            <li><a href="educacao.html">Educação</a></li>
+            <li><a href="saude.html">Saúde</a></li>
+          </ul>
+        </nav>
+        <div class="auth-buttons">
+          <button class="btn btn-login">Entrar</button>
+          <button class="btn btn-signup">Cadastro</button>
+        </div>
+      </div>
+    </header>
+
+    <main class="page-content">
+      <section class="hero">
+        <div>
+          <p class="eyebrow">Reportagem especial</p>
+          <h1>O Direito de Sonhar</h1>
+          <p class="hero-copy">Uma nova geração enfrenta o custo da moradia, a construção da identidade e a busca por um projeto de vida em um país em transformação.</p>
+          <a class="hero-cta" href="#destaques">Ver destaques</a>
+        </div>
+        <div class="hero-image">
+          <img src="https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=900&q=80" alt="Jovens planejando o futuro" />
+        </div>
+      </section>
+
+      <section id="destaques" class="cards-grid">
+        <article class="card">
+          <span class="card-label">Política</span>
+          <h2>Como as decisões públicas afetam o sonho da casa própria</h2>
+          <p>Entenda as políticas habitacionais, as prioridades do orçamento e o papel dos programas sociais na vida dos jovens.</p>
+          <a class="card-link" href="politica.html">Ler mais →</a>
+        </article>
+        <article class="card">
+          <span class="card-label">Economia</span>
+          <h2>Preço do aluguel e mercado de trabalho em 2026</h2>
+          <p>Dados e exemplos reais mostram como o custo de vida altera os planos de carreira e o ritmo das conquistas.</p>
+          <a class="card-link" href="economia.html">Ler mais →</a>
+        </article>
+        <article class="card">
+          <span class="card-label">Educação</span>
+          <h2>Estudar e morar com dignidade</h2>
+          <p>O caminho dos estudantes se cruza com a falta de opções de moradia e os desafios de equilíbrio entre estudo e despesas.</p>
+          <a class="card-link" href="educacao.html">Ler mais →</a>
+        </article>
+        <article class="card">
+          <span class="card-label">Saúde</span>
+          <h2>Bem-estar além da casa: saúde mental e qualidade de vida</h2>
+          <p>Lar e tranquilidade andam juntos. Veja como a instabilidade da moradia impacta a saúde emocional.</p>
+          <a class="card-link" href="saude.html">Ler mais →</a>
+        </article>
+      </section>
+
+      <section class="text-block">
+        <h2>Por que este tema importa?</h2>
+        <p>O futuro dos jovens brasileiros não depende apenas de emprego ou salário, mas de um lar que permita sonhar, crescer e planejar com segurança. Esta reportagem mostra como moradia, identidade e políticas públicas se conectam no presente.</p>
+        <p>No Lins News, nossa missão é trazer conteúdo claro, acessível e relevante para quem acompanha as mudanças do país.</p>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>© 2026 Lins News · Jornalismo digital para quem sonha alto.</p>
+    </footer>
+
+    <script src="script.js" defer></script>
+  </body>
+</html>
